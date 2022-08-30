@@ -1,1 +1,1 @@
-# Inicio de back end de comercio electrónico
+# Código de inicio para Back end de e-commerce
